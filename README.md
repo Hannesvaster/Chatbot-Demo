@@ -1,2 +1,2 @@
 # Chatbot-Demo
-Chatbot demo on a simple website
+An AI Chatbot demo on a simple website
